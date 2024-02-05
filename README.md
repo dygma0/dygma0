@@ -14,3 +14,4 @@
 - [사이드 프로젝트 서버 성능 분석기](https://memo.cd80.run/121)
 - [CVE-2023-44487 분석 해보기](https://memo.cd80.run/138)
 - [Redisson 분산락 알아보기](https://memo.cd80.run/136)
+- [예외에 대한 새로운 시각에 대한 내 생각](https://memo.cd80.run/132)
