@@ -22,3 +22,12 @@
 <code><img height="20" alt="typescript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"></code>
 <code><img height="20" alt="java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"></code>
 <code><img height="20" alt="kotlin" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg"></code>
+·
+<code><img height="20" alt="spring" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg"></code>
+<code><img height="20" alt="nest" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg"></code>
+·
+<code><img height="20" alt="postgres" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"></code>
+<code><img height="20" alt="redis" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg"></code>
+·
+<code><img height="20" alt="idea" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg"></code>
+<code><img height="20" alt="vim" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg"></code>
