@@ -15,3 +15,10 @@
 - [CVE-2023-44487 분석 해보기](https://memo.cd80.run/138)
 - [Redisson 분산락 알아보기](https://memo.cd80.run/136)
 - [예외에 대한 새로운 시각에 대한 내 생각](https://memo.cd80.run/132)
+
+### 🪄 기술
+
+<code><img height="20" alt="javascript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"></code>
+<code><img height="20" alt="typescript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"></code>
+<code><img height="20" alt="java" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"></code>
+<code><img height="20" alt="kotlin" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg"></code>
