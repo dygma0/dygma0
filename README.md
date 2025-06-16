@@ -17,7 +17,7 @@
 - [Redisson 분산락 알아보기](https://bcake.tistory.com/136)
 - [예외에 대한 새로운 시각에 대한 내 생각](https://bcake.tistory.com/132)
 
-### 🪄 기술
+### 🪄 기술 경험
 
 <code><img height="20" alt="javascript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"></code>
 <code><img height="20" alt="typescript" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"></code>
