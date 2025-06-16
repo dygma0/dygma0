@@ -32,3 +32,6 @@
 ·
 <code><img height="20" alt="idea" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg"></code>
 <code><img height="20" alt="vim" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VIM-Dark.svg"></code>
+·
+<code><img height="20" alt="vim" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg"></code>
+<code><img height="20" alt="vim" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg"></code>
